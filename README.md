@@ -42,7 +42,7 @@ I'm a Software Engineer based in Budapest with deep expertise in **Golang** and 
 
 
 <!--START_SECTION:oss-contributions-->
-- Loading...
+ Loading...
 <!--END_SECTION:oss-contributions-->
 
 </div>
