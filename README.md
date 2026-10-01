@@ -2,10 +2,10 @@
 
 # Hi, I'm Mohammed Al-Dokimi 👋
 
-### Software Engineer | Cybersecurity studnet
+### Software Engineer | Cybersecurity Studnet
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed_Al--Dokimi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-al-dokimi-98ba411a5)
-[![Portfolio](https://img.shields.io/badge/Portfolio-aldokimi.streamlit.app-111827?style=for-the-badge&logo=streamlit&logoColor=white)](https://aldokimi.streamlit.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aldokimi.streamlit.app-111827?style=for-the-badge&logo=streamlit&logoColor=white)](https://mohammed.aldokimi.com)
 
 ![Go](https://img.shields.io/badge/Go-Expert-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
